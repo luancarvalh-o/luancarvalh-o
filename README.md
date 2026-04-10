@@ -11,7 +11,7 @@ Atualmente focado em lógica, estrutura de dados e back-end
 
 ---
 
-##  Em evolução
+##  Estudando
 
 -  Algoritmos e Estruturas de Dados (AED)  
 -  Programação Orientada a Objetos (POO)  
